@@ -1,0 +1,11 @@
+.grid-item{
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.grid-container{
+    border: 1px solid transparent;
+    display: grid;
+    gap: 1.5rem;
+}
